@@ -2,7 +2,7 @@ Here’s a **professional and efficient README.md** tailored for your *Reinforce
 
 ---
 
-```markdown
+
 # 🧠 Reinforcement Learning Projects
 
 A collection of my **Reinforcement Learning (RL)** projects and experiments.  
@@ -23,7 +23,7 @@ This repo includes:
 ## 📂 Project Structure
 
 
-
+```
 Reinforcement-Learning-Projects/
 │
 ├── 01_Value_Iteration/
@@ -41,8 +41,6 @@ Reinforcement-Learning-Projects/
 │
 └── README.md
 
-```
-```
 ```
 > Each folder contains code, explanations, and result visualizations for the specific algorithm.
 
