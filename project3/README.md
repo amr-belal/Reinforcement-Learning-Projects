@@ -49,7 +49,6 @@ project/
 │── dqn_agent.py          # DQN logic: action selection, training
 │── train.py              # Full training loop
 │── test.py               # Evaluation script
-│── utils.py              # Plotting, helpers
 │── README.md             # This file
 ```
 
