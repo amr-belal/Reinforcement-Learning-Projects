@@ -21,7 +21,7 @@ class Agent:
         # Hyperparameters
         self.epsilon = 1.0
         self.epsilon_min = 0.1
-        self.epsilon_decay = 0.995
+        self.epsilon_decay = 0.99995
         self.learning_rate = 1e-4
         self.gamma = 0.99
         self.batch_size = 32
