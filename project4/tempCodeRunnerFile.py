@@ -1,2 +1,1 @@
-breakout_model.pth
 breakout_attention_model.pth
